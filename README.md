@@ -1,2 +1,2 @@
-# PRODIGY_CS_02
+Image Encryption
 This is a python program of pixel manipulation for image encryption 
